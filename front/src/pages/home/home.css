@@ -1,0 +1,11 @@
+img {
+    height: 20em;
+}
+
+main {
+    min-height: 70%; 
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+
+}
